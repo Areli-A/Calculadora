@@ -1,4 +1,4 @@
-# Creaci+on de una Calculadora con HTML5 y Javascript
+# Creación de una Calculadora con HTML5 y Javascript
 
 ## **ÍNDICE**
 
